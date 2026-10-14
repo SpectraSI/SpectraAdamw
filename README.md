@@ -87,7 +87,7 @@ Spectra Labs is a member of the **NVIDIA Inception Program** for cutting-edge AI
 * 📄 **Technical Report (Zenodo DOI):** [https://zenodo.org/records/22967704](https://zenodo.org/records/22967704)
 * 📊 **Live Training Logs (W&B):** [Weights & Biases Dashboard](https://api.wandb.ai/links/project-mosaic/u913b38j)
 * 💬 **Reddit Community:** [r/SpectraLabs](https://reddit.com/r/SpectraLabs)
-* 🐦 **Twitter/X:** [@SpectraSILabs](https://x.com/SpectraSILabs)
+* 🐦 **X:** [@SpectraSILabs](https://x.com/SpectraSILabs)
 
 ---
 
